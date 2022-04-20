@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/cv/Carl Anderson Resume.pdf" type="application/pdf" height="100%" width="100%">
+<object data="/cv/Carl Anderson Resume.pdf" height="100%" width="100%"></object>
