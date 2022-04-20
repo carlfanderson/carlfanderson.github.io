@@ -21,3 +21,8 @@ redirect_from:
 
 <object data="/files/EE5371 Final Report.pdf" height="100%" width="100%"></object>
 <br>
+
+### Amplifier-Based Photodiode Analog-to-Digital Converter System (EE3102 F21)
+
+<object data="/files/EE3102 Final Report.pdf" height="100%" width="100%"></object>
+<br>
