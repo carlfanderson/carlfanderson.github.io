@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/cv/Carl Anderson Resume.pdf#view=FitH" type="application/pdf" style="min-height:100vh;width:100%">
+<embed src="/cv/Carl Anderson Resume.pdf#view=FitH" type="application/pdf" height="100%" width="100%">
