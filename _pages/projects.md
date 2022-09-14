@@ -7,6 +7,11 @@ redirect_from:
   - /prj
 ---
 
+### Spiking Neural Network Research Paper (EE5329 S22)
+
+<object data="/files/EE5329_SNN_Paper (1).pdf#view=fitV&toolbar=0" height="100%" width="100%"></object>
+<br>
+
 ### Reliability & Uniqueness Analysis of Stochastic Physical Unclonable Functions (F21-S22 UROP)
 
 <object data="/files/UROP Symposium Presentation.pdf#view=fitV&toolbar=0" height="100%" width="100%"></object>
